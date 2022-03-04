@@ -62,6 +62,5 @@
 #s={num1,num2,num3,num4,num5}
 #print(s)
 
-#Taking input from the user of 3 numbers and in listand sort them
 
 
